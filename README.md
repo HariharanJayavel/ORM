@@ -42,7 +42,7 @@ admin.site.register(Football_player,Football_playerAdmin)
 
 ## OUTPUT
 
-![Alt text](<Screenshot 2023-10-19 114748.png>)
+![OUTPUT](<Screenshot 2023-10-19 114748.png>)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
